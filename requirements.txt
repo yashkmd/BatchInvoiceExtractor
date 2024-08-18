@@ -1,0 +1,5 @@
+google-generativeai
+Pillow
+pandas
+python-dotenv
+openpyxl
